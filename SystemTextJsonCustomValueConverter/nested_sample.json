@@ -1,0 +1,9 @@
+{
+  "firstName": "Aaron",
+  "dexterity" : {
+    "batSide": {
+      "code": "S",
+      "description": "Switch"
+    }
+  }
+}
